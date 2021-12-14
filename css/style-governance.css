@@ -5,6 +5,15 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+.hr-light 
+{
+  color: #ccc5b9;
+  border-style: solid;
+  opacity: 0.4;
+  border-width: 1px;
+  margin: 70px 0px;
+}
+
 /* h1{
 
   font-family:'Times New Roman', Times, serif ;
